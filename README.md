@@ -9,7 +9,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-amirsaeed.co.uk-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amirsaeed.co.uk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-en--amirsaeed-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/en-amirsaeed/)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uk.amir.saeed@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devloggeruk@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-@365Pixels-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@365Pixels)
 [![Medium](https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white)](https://amir-saeed.medium.com/)
 
@@ -208,7 +208,7 @@ My day-to-day centres on **TypeScript / Node.js (10+ yrs)**, **Python / FastAPI*
 | :-- | :-- |
 | **Portfolio** | [amirsaeed.co.uk](https://amirsaeed.co.uk) |
 | **LinkedIn** | [linkedin.com/in/en-amirsaeed](https://www.linkedin.com/in/en-amirsaeed/) |
-| **Email** | [uk.amir.saeed@gmail.com](mailto:uk.amir.saeed@gmail.com) |
+| **Email** | [devloggeruk@gmail.com](mailto:devloggeruk@gmail.com) |
 | **YouTube** | [@365Pixels](https://www.youtube.com/@365Pixels) |
 | **Medium** | [amir-saeed.medium.com](https://amir-saeed.medium.com/) |
 | **Credly** | [AWS Developer Associate](https://www.credly.com/badges/6fbc4f41-7711-4efb-b0c9-c09de0ea0785/public_url) · [Terraform Associate](https://www.credly.com/badges/41b7e067-1a30-4bb5-8e7c-c8270bfbab7b/public_url) |
